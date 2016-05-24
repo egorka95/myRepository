@@ -1,11 +1,8 @@
-package com.company;
+package MyHomeWork;
 
 public class Main {
-
-
-    public static void main(String[] args) {
+    
+public static void main(String[] args) {
         System.out.println("Hi, I'm your first Java program! Stay tuned!");
-
-
-    }
+ }
 }
